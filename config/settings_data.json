@@ -10,7 +10,7 @@
 {
   "current": {
     "storefront_hostname": "www.offzerofinancial.com",
-    "custom_redirects": "\/collections\/all > \/about",
+    "custom_redirects": "",
     "content_for_index": [
 
     ]
